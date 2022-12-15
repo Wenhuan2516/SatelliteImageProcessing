@@ -7,4 +7,29 @@
 ## Steps to collect satellite data and assign the nearest record to the county and census tract
 
 ### Step 1:
-<img src="https://github.com/Wenhuan2516/Purple-Air-Data-Scraping/blob/main/air1.png" alt="step" title="step">
+<img src="https://github.com/Wenhuan2516/SatelliteImageProcessing/blob/main/sate1.png" alt="step" title="step">
+
+### Step 2:
+<img src="https://github.com/Wenhuan2516/SatelliteImageProcessing/blob/main/sate2.png" alt="step" title="step">
+
+### Step 3:
+<img src="https://github.com/Wenhuan2516/SatelliteImageProcessing/blob/main/sate3.png" alt="step" title="step">
+
+### Step 4:
+<img src="https://github.com/Wenhuan2516/SatelliteImageProcessing/blob/main/sate4.png" alt="step" title="step">
+
+### Step 5:
+<img src="https://github.com/Wenhuan2516/SatelliteImageProcessing/blob/main/sate5.png" alt="step" title="step">
+
+### Step 6:
+<img src="https://github.com/Wenhuan2516/SatelliteImageProcessing/blob/main/sate6.png" alt="step" title="step">
+
+### Step 7:
+<img src="https://github.com/Wenhuan2516/SatelliteImageProcessing/blob/main/sate7.png" alt="step" title="step">
+
+### Step 8:
+<img src="https://github.com/Wenhuan2516/SatelliteImageProcessing/blob/main/sate8.png" alt="step" title="step">
+
+### Step 9:
+<img src="https://github.com/Wenhuan2516/SatelliteImageProcessing/blob/main/sate10.png" alt="step" title="step">
+
